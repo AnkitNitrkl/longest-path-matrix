@@ -21,12 +21,6 @@ The Longest Path Matrix algorithm is a method used to find the longest path in a
 
 - numpy
 
-## Further Improvements
-
-- Add error handling for invalid input matrices.
-- Optimize the code for better efficiency.
-- Include unit tests to ensure correctness.
-
 ## Author
 
 AnkitNitrkl
